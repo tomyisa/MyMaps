@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Maps</string>
+    <string name="tab_text_1">Maps</string>
+    <string name="tab_text_2">Favorit</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
